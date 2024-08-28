@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/css/main.dfc20642.css",
+    "main.js": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/js/main.e0d8dfaf.js",
+    "static/js/453.c382ab85.chunk.js": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/js/453.c382ab85.chunk.js",
+    "index.html": "/Seenumaheshwaran/ChessBoard-using-Reactjs/index.html",
+    "main.dfc20642.css.map": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/css/main.dfc20642.css.map",
+    "main.e0d8dfaf.js.map": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/js/main.e0d8dfaf.js.map",
+    "453.c382ab85.chunk.js.map": "/Seenumaheshwaran/ChessBoard-using-Reactjs/static/js/453.c382ab85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc20642.css",
+    "static/js/main.e0d8dfaf.js"
+  ]
+}
